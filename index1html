@@ -1,0 +1,33 @@
+ <!DOCTYPE html>
+ <html>
+   <head>
+   	 
+     
+    <title>Saket Cricket data</title>
+   </head>
+   <body>
+      <header>
+         <nav>
+            
+         </nav>
+      </header>
+
+      <main>
+         <article>
+            <section>
+               <h1> Saket Cricket Stats</h1>
+               <aside>
+                 Batsman
+               </aside>
+            </section>
+            
+         </article>
+         
+      </main>
+
+      <footer>
+         
+      </footer>
+
+   </body>
+ </html>
